@@ -35,7 +35,8 @@ Production hosting setup:
 
     Elastic Beanstalk (Docker Environment):
 
-        -> url: http://presidio.ap-south-1.elasticbeanstalk.com
+        -> Frontend url: http://presidio.ap-south-1.elasticbeanstalk.com
+        -> Backend url: http://presidio.ap-south-1.elasticbeanstalk.com/api
 
         -> Docker Compose file
 
